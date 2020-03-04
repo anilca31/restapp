@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>com.google.apis</groupId>
 			<artifactId>google-api-services-compute</artifactId>
-			<version>beta-rev53-1.22.0</version>
+			<version>beta-rev99-1.23.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.google.apis/google-api-services-monitoring -->
 		<dependency>
